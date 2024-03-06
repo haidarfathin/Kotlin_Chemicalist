@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Chemicalist</string>
+    <string name="title">title</string>
+    <string name="iconImage">iconImage</string>
+    <string name="search_hint">Ketik Astatine</string>
+
+    <string name="astatine">
+        Astatine [85] adalah unsur radioaktif yang sangat jarang ditemukan di alam. Meskipun demikian, astatine memiliki peran penting dalam penelitian kimia dan fisika nuklir. Keberadaannya dalam senyawa bersama logam dan non-logam dapat menyebabkan reaksi kimia yang menarik. Karena tingkat radioaktivitasnya yang tinggi, astatine dapat digunakan dalam pengobatan kanker sebagai sumber radiasi internal. Sayangnya, sifat kimia astatine masih kurang dipahami karena jumlahnya yang sangat sedikit di Bumi. Namun, penelitian lebih lanjut terus dilakukan untuk mengungkap karakteristik dan potensi aplikasi astatine. Kehadirannya dalam senyawa organik juga menarik perhatian dalam pengembangan obat-obatan baru.
+    </string>
+    <string name="calcium">
+        Calcium [20] adalah logam alkali tanah yang sangat penting untuk kesehatan manusia. Selain memainkan peran utama dalam pembentukan tulang dan gigi, kalsium juga berperan dalam kontraksi otot dan transmisi sinyal saraf. Kalsium ditemukan dalam berbagai makanan, susu, dan produk olahan susu. Defisiensi kalsium dapat menyebabkan masalah kesehatan seperti osteoporosis. Di sisi lain, konsumsi berlebihan kalsium juga dapat membawa risiko tertentu. Oleh karena itu, menjaga keseimbangan asupan kalsium sangat penting untuk kesehatan tulang dan fungsi tubuh secara keseluruhan.
+
+    </string>
+    <string name="cesium">
+        Cesium [55] adalah logam alkali dengan sifat konduktivitas listrik yang sangat tinggi. Hal ini membuatnya berguna dalam berbagai aplikasi teknologi, seperti pembuatan jam atom. Cesium digunakan dalam waktu standar internasional (UTC) karena ketidakberdayaannya. Selain itu, sifat khusus cesium membuatnya ideal untuk digunakan dalam sensor dan perangkat elektronik. Meskipun jarang digunakan dalam kehidupan sehari-hari, cesium memiliki dampak positif pada teknologi dan ilmu pengetahuan. Keunikan sifat fisiknya memberikan kontribusi signifikan dalam pengembangan teknologi modern.
+
+    </string>
+    <string name="copper">
+        Copper [29] adalah logam yang dikenal karena konduktivitas termal dan listriknya yang tinggi. Sejak ribuan tahun yang lalu, manusia telah menggunakan tembaga untuk membuat peralatan dan senjata. Kekuatan dan daya hantar panas tembaga membuatnya sangat berharga dalam produksi kabel listrik, peralatan elektronik, dan sistem pendinginan. Sebagai unsur esensial dalam tubuh manusia, tembaga juga mendukung fungsi sistem saraf dan pembentukan kolagen. Walaupun sangat umum, peran tembaga dalam teknologi dan kesehatan membuatnya tidak tergantikan dalam kehidupan modern.
+
+    </string>
+    <string name="darmstadtium">
+        Darmstadtium [110] adalah unsur transuranium yang sangat tidak stabil dan hanya dapat diproduksi secara buatan di laboratorium. Penelitian lebih lanjut tentang darmstadtium terbatas karena sifat-sifatnya yang tidak stabil dan umur paruh yang sangat singkat. Hanya sejumlah kecil darmstadtium yang pernah diproduksi dalam percobaan di laboratorium. Meskipun belum ada aplikasi praktis untuk darmstadtium, penelitian ini membantu ilmuwan memahami sifat-sifat unsur transuranium dan dinamika nuklir. Darmstadtium tetap menjadi fokus penelitian dalam pemahaman lebih lanjut tentang unsur-unsur di ujung tabel periodik.
+
+    </string>
+    <string name="flerovium">
+        Flerovium [114] adalah unsur transuranium yang juga hanya dapat diproduksi secara buatan. Flerovium sangat tidak stabil dan memiliki umur paruh yang sangat singkat, membuatnya sulit dipelajari. Penelitian terbatas pada flerovium, dan belum ada aplikasi praktis yang diketahui. Meskipun demikian, upaya untuk mensintesis unsur ini memberikan wawasan tentang sifat-sifat unsur superberat. Flerovium menjadi subjek penting dalam eksplorasi ilmu pengetahuan nuklir dan memperdalam pemahaman kita tentang materi dan energi di alam semesta.
+
+    </string>
+    <string name="fluorine">
+    Fluorine [9] adalah unsur halogen yang sangat reaktif dan tidak ditemui dalam bentuk murni di alam. Keunikan sifat kimianya membuatnya menjadi elemen yang penting dalam berbagai aplikasi industri dan kesehatan. Fluor
+    </string>
+
+    <string name="hafnium">
+    Hafnium [72] adalah logam transisi dengan titik leleh tinggi yang mencapai 2.177 derajat Celsius. Unsur ini sering digunakan dalam industri aeronautika, terutama dalam pembuatan batang kendali nuklir dan turbin pesawat terbang.
+</string>
+
+    <string name="neon">
+    Neon [10] adalah gas mulia yang tidak berwarna, tak berbau, dan tidak beracun. Gas ini digunakan secara luas dalam industri lampu neon dan tanda-tanda neon, memberikan cahaya yang cerah dan menarik.
+</string>
+
+    <string name="nickel">
+    Nickel [28] adalah logam transisi yang tahan terhadap korosi dan memiliki kilauan yang menarik. Digunakan dalam pembuatan koin, peralatan rumah tangga, dan industri, nickel juga ditemukan sebagai komponen utama dalam beberapa paduan logam.
+</string>
+
+    <string name="nitrogen">
+    Nitrogen [7] adalah gas di atmosfer bumi yang menyusun sekitar 78% dari udara. Gas ini penting dalam industri kimia, digunakan dalam pembuatan pupuk, bahan peledak, dan berbagai senyawa organik.
+</string>
+
+    <string name="phosphorus">
+    Phosphorus [15] adalah unsur non-logam yang ditemukan dalam berbagai senyawa organik. Senyawa fosforus penting dalam produksi pupuk dan memiliki peran krusial dalam proses biologis, termasuk pembentukan DNA dan energi selular.
+</string>
+
+    <string name="scandium">
+    Scandium [21] adalah logam transisi yang relatif langka dan ditemukan bersamaan dengan mineral uranium. Memiliki berbagai aplikasi dalam industri aeronautika, scandium digunakan dalam pembuatan komponen pesawat terbang dan sepeda.
+</string>
+
+    <string name="selenium">
+    Selenium [34] adalah unsur non-logam yang esensial bagi manusia dalam jumlah kecil. Ditemukan dalam makanan dan digunakan dalam produksi fotovoltaik, selenium juga memiliki peran sebagai antioksidan dalam tubuh manusia.
+</string>
+
+    <string name="ytterbium">
+    Ytterbium [70] adalah logam tanah jarang yang memiliki sifat konduktivitas termal yang tinggi. Digunakan dalam pembuatan jam atom dan penelitian ilmiah, ytterbium juga dapat berfungsi sebagai pencacah waktu dalam sejumlah aplikasi teknologi tinggi.
+</string>
+
+
+    <string name="detailTitle">DetailTitle</string>
+    <string name="imageDetail">imageDetail</string>
+    <string name="chemicalist">Chemicalist</string>
+    <string name="about_me">About Me</string>
+    <string name="title_activity_about">about</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="nama">Muhammad Haidar Alfathin</string>
+    <string name="email">haidarhaidara9@gmail.com</string>
+
+</resources>

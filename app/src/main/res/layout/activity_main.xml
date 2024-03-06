@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical">
+
+  <androidx.appcompat.widget.Toolbar
+      android:id="@+id/toolbar"
+      android:layout_width="match_parent"
+      android:layout_height="?attr/actionBarSize"
+      android:background="@color/purple"
+      android:elevation="4dp"
+      app:title="@string/chemicalist"
+      app:titleTextColor="@color/whiteBG"
+      app:popupTheme="@style/ThemeOverlay.AppCompat.Dark"
+      app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+  <androidx.appcompat.widget.SearchView
+      android:id="@+id/search"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="12dp"
+      android:background="@drawable/search_bkg"
+      android:focusable="false"
+      app:closeIcon="@drawable/baseline_clear_24"
+      app:iconifiedByDefault="false"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:queryHint="@string/search_hint"
+      app:searchHintIcon="@null"
+      app:searchIcon="@drawable/baseline_search_24" />
+
+  <!-- RecyclerView -->
+  <androidx.recyclerview.widget.RecyclerView
+      android:id="@+id/recyclerView"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:background="@color/background"
+      android:layout_marginTop="12dp" />
+
+</LinearLayout>
